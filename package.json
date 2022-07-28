@@ -1,5 +1,5 @@
 {
-  "name": "stitches-dynamic-variants",
+  "name": "@hadihallak/stitches-dynamic-variants",
   "version": "1.0.0",
   "description": "experiment",
   "main": "index.js",
