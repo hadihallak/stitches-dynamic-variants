@@ -1,0 +1,22 @@
+{
+  "name": "stitches-dynamic-variants",
+  "version": "1.0.0",
+  "description": "experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@stitches/react": "^1.2.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadihallak/stitches-dynamic-variants.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hadihallak/stitches-dynamic-variants/issues"
+  },
+  "homepage": "https://github.com/hadihallak/stitches-dynamic-variants#readme"
+}
